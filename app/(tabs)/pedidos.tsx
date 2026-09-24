@@ -188,3 +188,5 @@ export default function PedidosScreen() {
     </SafeAreaView>
   );
 }
+
+//ejercicio 4
